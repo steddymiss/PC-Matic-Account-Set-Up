@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+
+
 ===========================================
 How to Set Up a PC Matic Account?
 ===========================================
